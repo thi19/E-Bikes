@@ -380,5 +380,5 @@
         <tab>Product__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
-    <userLicense>Guest</userLicense>
+    <userLicense>Guest</userLicense> 
 </Profile>
